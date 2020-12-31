@@ -1,2 +1,5 @@
 # hello-world
-Image Classification for a City Dog Show
+new repository 
+
+hello everyone
+My name is Khuloud, I'm a chemical engineer. 
