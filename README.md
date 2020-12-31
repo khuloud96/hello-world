@@ -1,2 +1,2 @@
 # hello-world
-new repository 
+Image Classification for a City Dog Show
